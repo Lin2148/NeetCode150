@@ -70,4 +70,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Lin2148/NeetCode150/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Lin2148/NeetCode150/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Lin2148/NeetCode150/tree/master/0338-counting-bits) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Lin2148/NeetCode150/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Lin2148/NeetCode150/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Lin2148/NeetCode150/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Lin2148/NeetCode150/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
