@@ -1,20 +1,21 @@
 class Solution {
     public boolean isHappy(int n) {
         // save every time sum of square ans. to check loop
-        HashMap<Integer, Integer> map = new HashMap<>();
+        HashSet<Integer> set = new HashSet<>();
         
-        while (!map.containsKey(n)){
+        while (!set.contains(n)){
             // cal ss
             int sum = 0;
-            int remain = n;
-            while (remain > 0){
-                sum += Math.pow((remain % 10),2); 
-                remain = (remain / 10);
+            int curr = n;
+            while (curr > 0){
+                int quotient = curr % 10;
+                sum += (curr % 10) * (curr % 10); 
+                curr /= 10;
             }
             if (sum == 1) return true;
             
             // not found next loop
-            map.put(n,sum);
+            set.add(n);
             n = sum;
         }
     return false;
