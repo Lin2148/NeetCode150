@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Lin2148/NeetCode150/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Lin2148/NeetCode150/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Lin2148/NeetCode150/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Lin2148/NeetCode150/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lin2148/NeetCode150/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Lin2148/NeetCode150/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Lin2148/NeetCode150/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Lin2148/NeetCode150/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Lin2148/NeetCode150/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Lin2148/NeetCode150/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
