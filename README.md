@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lin2148/NeetCode150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Lin2148/NeetCode150/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Lin2148/NeetCode150/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/Lin2148/NeetCode150/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Lin2148/NeetCode150/tree/master/0572-subtree-of-another-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Lin2148/NeetCode150/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
