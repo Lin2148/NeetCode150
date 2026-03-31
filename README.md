@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Lin2148/NeetCode150/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lin2148/NeetCode150/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Lin2148/NeetCode150/tree/master/0572-subtree-of-another-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Lin2148/NeetCode150/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Lin2148/NeetCode150/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lin2148/NeetCode150/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Lin2148/NeetCode150/tree/master/0572-subtree-of-another-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Lin2148/NeetCode150/tree/master/0703-kth-largest-element-in-a-stream) |
 ## String Matching
 |  |
 | ------- |
@@ -113,4 +115,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Lin2148/NeetCode150/tree/master/0704-binary-search) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Lin2148/NeetCode150/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Lin2148/NeetCode150/tree/master/0703-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Lin2148/NeetCode150/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Lin2148/NeetCode150/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
