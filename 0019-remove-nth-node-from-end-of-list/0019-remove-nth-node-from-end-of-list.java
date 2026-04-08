@@ -11,15 +11,13 @@
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
         if (head == null) return head;
-        if (head.next == null && n == 1) return null;
         ListNode fast = head, slow = head;
-        int slowStep = 0;
 
         // slow ptr is N step slower
-        while (slowStep < n){
+        for (int i = 0; i < n; i++) {
             fast = fast.next;
-            slowStep++;
         }
+        // remove 1st node
         if (fast == null) {
             return head.next; 
         }
