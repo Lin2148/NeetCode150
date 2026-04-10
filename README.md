@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lin2148/NeetCode150/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/Lin2148/NeetCode150/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Lin2148/NeetCode150/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Lin2148/NeetCode150/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lin2148/NeetCode150/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Lin2148/NeetCode150/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Lin2148/NeetCode150/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Lin2148/NeetCode150/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Lin2148/NeetCode150/tree/master/0202-happy-number) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lin2148/NeetCode150/tree/master/0703-kth-largest-element-in-a-stream) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Lin2148/NeetCode150/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
