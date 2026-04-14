@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Lin2148/NeetCode150/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Lin2148/NeetCode150/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Lin2148/NeetCode150/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Lin2148/NeetCode150/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lin2148/NeetCode150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Lin2148/NeetCode150/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lin2148/NeetCode150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Lin2148/NeetCode150/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lin2148/NeetCode150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Lin2148/NeetCode150/tree/master/0704-binary-search) |
 ## Design
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Lin2148/NeetCode150/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/Lin2148/NeetCode150/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Lin2148/NeetCode150/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
