@@ -8,7 +8,7 @@ class Solution {
 
             reach = Math.max(nums[i] + i, reach);
         
-            if (reach > nums.length) return true;
+            if (reach >= nums.length) return true;
         }
     return true;
     }
