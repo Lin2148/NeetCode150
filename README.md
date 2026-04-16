@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lin2148/NeetCode150/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/Lin2148/NeetCode150/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Lin2148/NeetCode150/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Lin2148/NeetCode150/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Lin2148/NeetCode150/tree/master/0053-maximum-subarray) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Lin2148/NeetCode150/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Lin2148/NeetCode150/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Lin2148/NeetCode150/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Lin2148/NeetCode150/tree/master/0070-climbing-stairs) |
@@ -198,5 +200,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Lin2148/NeetCode150/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Lin2148/NeetCode150/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
