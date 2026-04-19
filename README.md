@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Lin2148/NeetCode150/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Lin2148/NeetCode150/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Lin2148/NeetCode150/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Lin2148/NeetCode150/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/Lin2148/NeetCode150/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Lin2148/NeetCode150/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lin2148/NeetCode150/tree/master/0746-min-cost-climbing-stairs) |
@@ -38,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Lin2148/NeetCode150/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Lin2148/NeetCode150/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lin2148/NeetCode150/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Lin2148/NeetCode150/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Lin2148/NeetCode150/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Lin2148/NeetCode150/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lin2148/NeetCode150/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Lin2148/NeetCode150/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Lin2148/NeetCode150/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Lin2148/NeetCode150/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Lin2148/NeetCode150/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Lin2148/NeetCode150/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Lin2148/NeetCode150/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lin2148/NeetCode150/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Lin2148/NeetCode150/tree/master/1046-last-stone-weight) |
 ## Data Stream
@@ -219,4 +224,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Lin2148/NeetCode150/tree/master/0133-clone-graph) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Lin2148/NeetCode150/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Lin2148/NeetCode150/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Lin2148/NeetCode150/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
