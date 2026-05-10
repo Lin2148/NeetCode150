@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Lin2148/NeetCode150/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Lin2148/NeetCode150/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lin2148/NeetCode150/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/Lin2148/NeetCode150/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Lin2148/NeetCode150/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Lin2148/NeetCode150/tree/master/1046-last-stone-weight) |
 ## Hash Table
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Lin2148/NeetCode150/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lin2148/NeetCode150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Lin2148/NeetCode150/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Lin2148/NeetCode150/tree/master/0875-koko-eating-bananas) |
 ## Design
 |  |
 | ------- |
