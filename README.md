@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Lin2148/NeetCode150/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Lin2148/NeetCode150/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Lin2148/NeetCode150/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Lin2148/NeetCode150/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lin2148/NeetCode150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Lin2148/NeetCode150/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Lin2148/NeetCode150/tree/master/0200-number-of-islands) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Lin2148/NeetCode150/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Lin2148/NeetCode150/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lin2148/NeetCode150/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Lin2148/NeetCode150/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Lin2148/NeetCode150/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Lin2148/NeetCode150/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Lin2148/NeetCode150/tree/master/0322-coin-change) |
