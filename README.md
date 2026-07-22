@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Lin2148/NeetCode150/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Lin2148/NeetCode150/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Lin2148/NeetCode150/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Lin2148/NeetCode150/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Lin2148/NeetCode150/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lin2148/NeetCode150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lin2148/NeetCode150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Lin2148/NeetCode150/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/Lin2148/NeetCode150/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Lin2148/NeetCode150/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Lin2148/NeetCode150/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Lin2148/NeetCode150/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Lin2148/NeetCode150/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Lin2148/NeetCode150/tree/master/0208-implement-trie-prefix-tree) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Lin2148/NeetCode150/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Lin2148/NeetCode150/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Lin2148/NeetCode150/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Lin2148/NeetCode150/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Lin2148/NeetCode150/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Lin2148/NeetCode150/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/Lin2148/NeetCode150/tree/master/0647-palindromic-substrings) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Lin2148/NeetCode150/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Lin2148/NeetCode150/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lin2148/NeetCode150/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Lin2148/NeetCode150/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Lin2148/NeetCode150/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Lin2148/NeetCode150/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Lin2148/NeetCode150/tree/master/0213-house-robber-ii) |
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Lin2148/NeetCode150/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Lin2148/NeetCode150/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -306,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Lin2148/NeetCode150/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Lin2148/NeetCode150/tree/master/0208-implement-trie-prefix-tree) |
 ## Graph Theory
 |  |
