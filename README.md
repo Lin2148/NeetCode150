@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Lin2148/NeetCode150/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Lin2148/NeetCode150/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Lin2148/NeetCode150/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Lin2148/NeetCode150/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Lin2148/NeetCode150/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Lin2148/NeetCode150/tree/master/0125-valid-palindrome) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lin2148/NeetCode150/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/Lin2148/NeetCode150/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Lin2148/NeetCode150/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Lin2148/NeetCode150/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Lin2148/NeetCode150/tree/master/0062-unique-paths) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Lin2148/NeetCode150/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Lin2148/NeetCode150/tree/master/0054-spiral-matrix) |
 ## Geometry
 |  |
