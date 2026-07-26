@@ -26,24 +26,43 @@ class Solution {
         return dp[n][p];
     }
 }
+
 /*
 //bt
 class Solution {
     public int findTargetSumWays(int[] nums, int target) {
         int i = 0;
         int cur = 0;
-        return bt(nums, i,  target, cur);
+        int total = 0;
+        for (int num : nums) {
+            total += num;
+        }
+
+        if (Math.abs(target) > total) {
+            return 0;
+        }
+        // how many ways under num i total j 
+        int[][] dp = new int[nums.length][total * 2 + 1];
+        for (int[] row : dp) {
+            Arrays.fill(row, -1);
+        }
+        return bt(nums, i,  target, cur, dp, total);
     }
 
-    private int bt(int[] nums, int i, int target, int cur){
+    private int bt(int[] nums, int i, int target, int cur, int[][] dp, int total){
         if (i == nums.length){
             if (cur == target){
                 return 1;
             }
             return 0;
         }
-        int pos = bt(nums, i+1, target , cur + nums[i]);
-        int neg = bt(nums, i+1, target , cur - nums[i]);
+        int curIdx = cur + total;
+        if (dp[i][curIdx] != -1) {
+            return dp[i][curIdx];
+        }
+
+        int pos = bt(nums, i+1, target , cur + nums[i], dp, total);
+        int neg = bt(nums, i+1, target , cur - nums[i], dp, total);
         return pos + neg;
     }
 }
