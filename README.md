@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Lin2148/NeetCode150/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Lin2148/NeetCode150/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Lin2148/NeetCode150/tree/master/0417-pacific-atlantic-water-flow) |
+| [0494-target-sum](https://github.com/Lin2148/NeetCode150/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Lin2148/NeetCode150/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/Lin2148/NeetCode150/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Lin2148/NeetCode150/tree/master/0704-binary-search) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Lin2148/NeetCode150/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Lin2148/NeetCode150/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Lin2148/NeetCode150/tree/master/0338-counting-bits) |
+| [0494-target-sum](https://github.com/Lin2148/NeetCode150/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Lin2148/NeetCode150/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Lin2148/NeetCode150/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lin2148/NeetCode150/tree/master/0746-min-cost-climbing-stairs) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Lin2148/NeetCode150/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Lin2148/NeetCode150/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Lin2148/NeetCode150/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/Lin2148/NeetCode150/tree/master/0494-target-sum) |
 ## Greedy
 |  |
 | ------- |
