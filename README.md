@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Lin2148/NeetCode150/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lin2148/NeetCode150/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Lin2148/NeetCode150/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Lin2148/NeetCode150/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Lin2148/NeetCode150/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Lin2148/NeetCode150/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Lin2148/NeetCode150/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Lin2148/NeetCode150/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/Lin2148/NeetCode150/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/Lin2148/NeetCode150/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
@@ -366,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Lin2148/NeetCode150/tree/master/0238-product-of-array-except-self) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Lin2148/NeetCode150/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
