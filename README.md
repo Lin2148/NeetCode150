@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Lin2148/NeetCode150/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/Lin2148/NeetCode150/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Lin2148/NeetCode150/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Lin2148/NeetCode150/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lin2148/NeetCode150/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Lin2148/NeetCode150/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/Lin2148/NeetCode150/tree/master/0973-k-closest-points-to-origin) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Lin2148/NeetCode150/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lin2148/NeetCode150/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Lin2148/NeetCode150/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Lin2148/NeetCode150/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
@@ -372,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Lin2148/NeetCode150/tree/master/0424-longest-repeating-character-replacement) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Lin2148/NeetCode150/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
