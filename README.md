@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Lin2148/NeetCode150/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Lin2148/NeetCode150/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Lin2148/NeetCode150/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Lin2148/NeetCode150/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Lin2148/NeetCode150/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Lin2148/NeetCode150/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Lin2148/NeetCode150/tree/master/0217-contains-duplicate) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Lin2148/NeetCode150/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Lin2148/NeetCode150/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Lin2148/NeetCode150/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Lin2148/NeetCode150/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Lin2148/NeetCode150/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Lin2148/NeetCode150/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Lin2148/NeetCode150/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Lin2148/NeetCode150/tree/master/0208-implement-trie-prefix-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lin2148/NeetCode150/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -393,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Lin2148/NeetCode150/tree/master/0739-daily-temperatures) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Lin2148/NeetCode150/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
