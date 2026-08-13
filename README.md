@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Lin2148/NeetCode150/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Lin2148/NeetCode150/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Lin2148/NeetCode150/tree/master/0202-happy-number) |
+| [0371-sum-of-two-integers](https://github.com/Lin2148/NeetCode150/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/Lin2148/NeetCode150/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Lin2148/NeetCode150/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Lin2148/NeetCode150/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Lin2148/NeetCode150/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/Lin2148/NeetCode150/tree/master/0371-sum-of-two-integers) |
 ## Tree
 |  |
 | ------- |
