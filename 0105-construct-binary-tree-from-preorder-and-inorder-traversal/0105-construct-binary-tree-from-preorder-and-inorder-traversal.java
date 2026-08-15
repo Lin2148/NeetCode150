@@ -14,6 +14,8 @@
  * }
  */
 class Solution {
+    private Map<Integer, Integer> map = new HashMap<>();
+
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         int n = preorder.length;
         if (n == 0){
@@ -23,22 +25,25 @@ class Solution {
             return new TreeNode(preorder[0]);
         }
 
-        TreeNode root = new TreeNode(preorder[0]);
-
         // find root idx
-        int rootIdx = 0;
-        while(inorder[rootIdx] != root.val){
-            rootIdx++;
+        for (int i = 0; i < n; i++) {
+            map.put(inorder[i], i);
         }
-        // found root idx 
-        int[] leftInorder = Arrays.copyOfRange(inorder, 0, rootIdx);
-        int[] leftPreorder = Arrays.copyOfRange(preorder, 1, rootIdx+1);
+        return dfs(preorder, 0, n - 1, 0, n - 1);
+    }
+        private TreeNode dfs(int[] preorder, int preStart, int preEnd, int inStart, int inEnd) {
+        if (preStart > preEnd || inStart > inEnd) {
+            return null;
+        }
+        int rootVal = preorder[preStart];
+        TreeNode root = new TreeNode(rootVal);
 
-        int[] rightInorder = Arrays.copyOfRange(inorder, rootIdx+1, n);
-        int[] rightPreorder = Arrays.copyOfRange(preorder, rootIdx+1, n);
+        int rootIdx = map.get(rootVal);
 
-        root.left = buildTree(leftPreorder, leftInorder);
-        root.right = buildTree(rightPreorder, rightInorder);
+        // found root idx
+        root.left = dfs(preorder, preStart+1, preStart+rootIdx-inStart, inStart, rootIdx - 1);
+
+        root.right = dfs(preorder, preStart+rootIdx-inStart +1, preEnd, rootIdx+1, inEnd);
         return root;
     }
 }
