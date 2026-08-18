@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Lin2148/NeetCode150/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Lin2148/NeetCode150/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Lin2148/NeetCode150/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Lin2148/NeetCode150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Lin2148/NeetCode150/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lin2148/NeetCode150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lin2148/NeetCode150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Lin2148/NeetCode150/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Lin2148/NeetCode150/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lin2148/NeetCode150/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Lin2148/NeetCode150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Lin2148/NeetCode150/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Lin2148/NeetCode150/tree/master/0739-daily-temperatures) |
 ## Linked List
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Lin2148/NeetCode150/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Lin2148/NeetCode150/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Lin2148/NeetCode150/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Lin2148/NeetCode150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Lin2148/NeetCode150/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/Lin2148/NeetCode150/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/Lin2148/NeetCode150/tree/master/0973-k-closest-points-to-origin) |
