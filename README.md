@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Lin2148/NeetCode150/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lin2148/NeetCode150/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/Lin2148/NeetCode150/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/Lin2148/NeetCode150/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Lin2148/NeetCode150/tree/master/0846-hand-of-straights) |
 ## Sorting
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Lin2148/NeetCode150/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lin2148/NeetCode150/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/Lin2148/NeetCode150/tree/master/0647-palindromic-substrings) |
+| [0763-partition-labels](https://github.com/Lin2148/NeetCode150/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/Lin2148/NeetCode150/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Lin2148/NeetCode150/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Lin2148/NeetCode150/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/Lin2148/NeetCode150/tree/master/0647-palindromic-substrings) |
+| [0763-partition-labels](https://github.com/Lin2148/NeetCode150/tree/master/0763-partition-labels) |
 ## Stack
 |  |
 | ------- |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Lin2148/NeetCode150/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Lin2148/NeetCode150/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/Lin2148/NeetCode150/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/Lin2148/NeetCode150/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Lin2148/NeetCode150/tree/master/0846-hand-of-straights) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Lin2148/NeetCode150/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Trie
