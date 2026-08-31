@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Lin2148/NeetCode150/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Lin2148/NeetCode150/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Lin2148/NeetCode150/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Lin2148/NeetCode150/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Lin2148/NeetCode150/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lin2148/NeetCode150/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lin2148/NeetCode150/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Lin2148/NeetCode150/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Lin2148/NeetCode150/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Lin2148/NeetCode150/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Lin2148/NeetCode150/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Lin2148/NeetCode150/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Lin2148/NeetCode150/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Lin2148/NeetCode150/tree/master/0139-word-break) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Lin2148/NeetCode150/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Lin2148/NeetCode150/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lin2148/NeetCode150/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Lin2148/NeetCode150/tree/master/0110-balanced-binary-tree) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Lin2148/NeetCode150/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Lin2148/NeetCode150/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Lin2148/NeetCode150/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Lin2148/NeetCode150/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Lin2148/NeetCode150/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Lin2148/NeetCode150/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Lin2148/NeetCode150/tree/master/0417-pacific-atlantic-water-flow) |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Lin2148/NeetCode150/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Lin2148/NeetCode150/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Lin2148/NeetCode150/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Lin2148/NeetCode150/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Lin2148/NeetCode150/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Lin2148/NeetCode150/tree/master/0494-target-sum) |
 ## Greedy
