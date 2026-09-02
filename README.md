@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Lin2148/NeetCode150/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Lin2148/NeetCode150/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/Lin2148/NeetCode150/tree/master/0621-task-scheduler) |
+| [0682-baseball-game](https://github.com/Lin2148/NeetCode150/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Lin2148/NeetCode150/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Lin2148/NeetCode150/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Lin2148/NeetCode150/tree/master/0739-daily-temperatures) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Lin2148/NeetCode150/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lin2148/NeetCode150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Lin2148/NeetCode150/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/Lin2148/NeetCode150/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Lin2148/NeetCode150/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Lin2148/NeetCode150/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Lin2148/NeetCode150/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/Lin2148/NeetCode150/tree/master/0682-baseball-game) |
 ## Geometry
 |  |
 | ------- |
