@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Lin2148/NeetCode150/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Lin2148/NeetCode150/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Lin2148/NeetCode150/tree/master/1046-last-stone-weight) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Lin2148/NeetCode150/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Lin2148/NeetCode150/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Hash Table
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Lin2148/NeetCode150/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/Lin2148/NeetCode150/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/Lin2148/NeetCode150/tree/master/0973-k-closest-points-to-origin) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Lin2148/NeetCode150/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Lin2148/NeetCode150/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Lin2148/NeetCode150/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Lin2148/NeetCode150/tree/master/0371-sum-of-two-integers) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Lin2148/NeetCode150/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Tree
 |  |
 | ------- |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Lin2148/NeetCode150/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Lin2148/NeetCode150/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Lin2148/NeetCode150/tree/master/0494-target-sum) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Lin2148/NeetCode150/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Greedy
 |  |
 | ------- |
@@ -437,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Lin2148/NeetCode150/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Lin2148/NeetCode150/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -462,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Lin2148/NeetCode150/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Lin2148/NeetCode150/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
