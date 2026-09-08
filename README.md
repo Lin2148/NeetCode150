@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lin2148/NeetCode150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lin2148/NeetCode150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Lin2148/NeetCode150/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Lin2148/NeetCode150/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Lin2148/NeetCode150/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Lin2148/NeetCode150/tree/master/0875-koko-eating-bananas) |
 ## Design
@@ -486,4 +487,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Lin2148/NeetCode150/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Lin2148/NeetCode150/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
