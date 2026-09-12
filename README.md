@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Lin2148/NeetCode150/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Lin2148/NeetCode150/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Lin2148/NeetCode150/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/Lin2148/NeetCode150/tree/master/0912-sort-an-array) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Lin2148/NeetCode150/tree/master/0953-verifying-an-alien-dictionary) |
 | [0973-k-closest-points-to-origin](https://github.com/Lin2148/NeetCode150/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Lin2148/NeetCode150/tree/master/0994-rotting-oranges) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Lin2148/NeetCode150/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Lin2148/NeetCode150/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Lin2148/NeetCode150/tree/master/0846-hand-of-straights) |
+| [0912-sort-an-array](https://github.com/Lin2148/NeetCode150/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Lin2148/NeetCode150/tree/master/0973-k-closest-points-to-origin) |
 ## String
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Lin2148/NeetCode150/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lin2148/NeetCode150/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Lin2148/NeetCode150/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Lin2148/NeetCode150/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Lin2148/NeetCode150/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Lin2148/NeetCode150/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Lin2148/NeetCode150/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lin2148/NeetCode150/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0912-sort-an-array](https://github.com/Lin2148/NeetCode150/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Lin2148/NeetCode150/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Lin2148/NeetCode150/tree/master/1046-last-stone-weight) |
 ## Data Stream
@@ -435,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Lin2148/NeetCode150/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Lin2148/NeetCode150/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -509,4 +514,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Lin2148/NeetCode150/tree/master/1071-greatest-common-divisor-of-strings) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Lin2148/NeetCode150/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Lin2148/NeetCode150/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Lin2148/NeetCode150/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
