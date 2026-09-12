@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Lin2148/NeetCode150/tree/master/1046-last-stone-weight) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Lin2148/NeetCode150/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Lin2148/NeetCode150/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1929-concatenation-of-array](https://github.com/Lin2148/NeetCode150/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Lin2148/NeetCode150/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Lin2148/NeetCode150/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Lin2148/NeetCode150/tree/master/0682-baseball-game) |
+| [1929-concatenation-of-array](https://github.com/Lin2148/NeetCode150/tree/master/1929-concatenation-of-array) |
 ## Geometry
 |  |
 | ------- |
