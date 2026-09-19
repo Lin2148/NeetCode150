@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/Lin2148/NeetCode150/tree/master/0953-verifying-an-alien-dictionary) |
 | [0973-k-closest-points-to-origin](https://github.com/Lin2148/NeetCode150/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Lin2148/NeetCode150/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/Lin2148/NeetCode150/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Lin2148/NeetCode150/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Lin2148/NeetCode150/tree/master/1046-last-stone-weight) |
 | [1834-single-threaded-cpu](https://github.com/Lin2148/NeetCode150/tree/master/1834-single-threaded-cpu) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Lin2148/NeetCode150/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Lin2148/NeetCode150/tree/master/0846-hand-of-straights) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Lin2148/NeetCode150/tree/master/0953-verifying-an-alien-dictionary) |
+| [0997-find-the-town-judge](https://github.com/Lin2148/NeetCode150/tree/master/0997-find-the-town-judge) |
 ## Sorting
 |  |
 | ------- |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Lin2148/NeetCode150/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Lin2148/NeetCode150/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Lin2148/NeetCode150/tree/master/0684-redundant-connection) |
+| [0997-find-the-town-judge](https://github.com/Lin2148/NeetCode150/tree/master/0997-find-the-town-judge) |
 ## Bucket Sort
 |  |
 | ------- |
