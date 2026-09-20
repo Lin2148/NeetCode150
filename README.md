@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Lin2148/NeetCode150/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Lin2148/NeetCode150/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Lin2148/NeetCode150/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/Lin2148/NeetCode150/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Lin2148/NeetCode150/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Lin2148/NeetCode150/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/Lin2148/NeetCode150/tree/master/0494-target-sum) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Lin2148/NeetCode150/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Lin2148/NeetCode150/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Lin2148/NeetCode150/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/Lin2148/NeetCode150/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Lin2148/NeetCode150/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Lin2148/NeetCode150/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Lin2148/NeetCode150/tree/master/0647-palindromic-substrings) |
@@ -547,4 +549,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Lin2148/NeetCode150/tree/master/0912-sort-an-array) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Lin2148/NeetCode150/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Lin2148/NeetCode150/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
