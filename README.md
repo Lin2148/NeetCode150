@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Lin2148/NeetCode150/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/Lin2148/NeetCode150/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Lin2148/NeetCode150/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/Lin2148/NeetCode150/tree/master/1137-n-th-tribonacci-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Lin2148/NeetCode150/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Dynamic Programming
 |  |
@@ -238,12 +239,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Lin2148/NeetCode150/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Lin2148/NeetCode150/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lin2148/NeetCode150/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Lin2148/NeetCode150/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Lin2148/NeetCode150/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Lin2148/NeetCode150/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Lin2148/NeetCode150/tree/master/0139-word-break) |
+| [1137-n-th-tribonacci-number](https://github.com/Lin2148/NeetCode150/tree/master/1137-n-th-tribonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
