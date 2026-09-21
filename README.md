@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Lin2148/NeetCode150/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lin2148/NeetCode150/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/Lin2148/NeetCode150/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Lin2148/NeetCode150/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Lin2148/NeetCode150/tree/master/0763-partition-labels) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Lin2148/NeetCode150/tree/master/0953-verifying-an-alien-dictionary) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Lin2148/NeetCode150/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Lin2148/NeetCode150/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lin2148/NeetCode150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Lin2148/NeetCode150/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/Lin2148/NeetCode150/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Lin2148/NeetCode150/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Lin2148/NeetCode150/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Lin2148/NeetCode150/tree/master/0739-daily-temperatures) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Lin2148/NeetCode150/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Lin2148/NeetCode150/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Lin2148/NeetCode150/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Lin2148/NeetCode150/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lin2148/NeetCode150/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Lin2148/NeetCode150/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Lin2148/NeetCode150/tree/master/1143-longest-common-subsequence) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Lin2148/NeetCode150/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Lin2148/NeetCode150/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/Lin2148/NeetCode150/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/Lin2148/NeetCode150/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Lin2148/NeetCode150/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Lin2148/NeetCode150/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Lin2148/NeetCode150/tree/master/0860-lemonade-change) |
@@ -557,4 +561,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Lin2148/NeetCode150/tree/master/0416-partition-equal-subset-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Lin2148/NeetCode150/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
