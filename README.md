@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Lin2148/NeetCode150/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Lin2148/NeetCode150/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Lin2148/NeetCode150/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Lin2148/NeetCode150/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Lin2148/NeetCode150/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Lin2148/NeetCode150/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Lin2148/NeetCode150/tree/master/0125-valid-palindrome) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Lin2148/NeetCode150/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Lin2148/NeetCode150/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Lin2148/NeetCode150/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Lin2148/NeetCode150/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Lin2148/NeetCode150/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lin2148/NeetCode150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Lin2148/NeetCode150/tree/master/0168-excel-sheet-column-title) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Lin2148/NeetCode150/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Lin2148/NeetCode150/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Lin2148/NeetCode150/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Lin2148/NeetCode150/tree/master/0136-single-number) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Lin2148/NeetCode150/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Lin2148/NeetCode150/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Lin2148/NeetCode150/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Lin2148/NeetCode150/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Lin2148/NeetCode150/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Lin2148/NeetCode150/tree/master/0867-transpose-matrix) |
