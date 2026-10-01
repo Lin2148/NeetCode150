@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Lin2148/NeetCode150/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Lin2148/NeetCode150/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Lin2148/NeetCode150/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/Lin2148/NeetCode150/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/Lin2148/NeetCode150/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Lin2148/NeetCode150/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lin2148/NeetCode150/tree/master/0746-min-cost-climbing-stairs) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Lin2148/NeetCode150/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lin2148/NeetCode150/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/Lin2148/NeetCode150/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/Lin2148/NeetCode150/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/Lin2148/NeetCode150/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Lin2148/NeetCode150/tree/master/0846-hand-of-straights) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Lin2148/NeetCode150/tree/master/0953-verifying-an-alien-dictionary) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Lin2148/NeetCode150/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Lin2148/NeetCode150/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Lin2148/NeetCode150/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/Lin2148/NeetCode150/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/Lin2148/NeetCode150/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/Lin2148/NeetCode150/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Lin2148/NeetCode150/tree/master/0973-k-closest-points-to-origin) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Lin2148/NeetCode150/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/Lin2148/NeetCode150/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Lin2148/NeetCode150/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/Lin2148/NeetCode150/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/Lin2148/NeetCode150/tree/master/0763-partition-labels) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Lin2148/NeetCode150/tree/master/0953-verifying-an-alien-dictionary) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Lin2148/NeetCode150/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Lin2148/NeetCode150/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/Lin2148/NeetCode150/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Lin2148/NeetCode150/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Lin2148/NeetCode150/tree/master/0721-accounts-merge) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Lin2148/NeetCode150/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -341,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Lin2148/NeetCode150/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/Lin2148/NeetCode150/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Lin2148/NeetCode150/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Lin2148/NeetCode150/tree/master/0721-accounts-merge) |
 | [0994-rotting-oranges](https://github.com/Lin2148/NeetCode150/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Lin2148/NeetCode150/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -434,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Lin2148/NeetCode150/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Lin2148/NeetCode150/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Lin2148/NeetCode150/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Lin2148/NeetCode150/tree/master/0721-accounts-merge) |
 ## Backtracking
 |  |
 | ------- |
