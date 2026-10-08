@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Lin2148/NeetCode150/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lin2148/NeetCode150/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/Lin2148/NeetCode150/tree/master/0647-palindromic-substrings) |
+| [0649-dota2-senate](https://github.com/Lin2148/NeetCode150/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Lin2148/NeetCode150/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/Lin2148/NeetCode150/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/Lin2148/NeetCode150/tree/master/0763-partition-labels) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Lin2148/NeetCode150/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Lin2148/NeetCode150/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/Lin2148/NeetCode150/tree/master/0621-task-scheduler) |
+| [0649-dota2-senate](https://github.com/Lin2148/NeetCode150/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Lin2148/NeetCode150/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Lin2148/NeetCode150/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Lin2148/NeetCode150/tree/master/0846-hand-of-straights) |
@@ -601,4 +603,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Lin2148/NeetCode150/tree/master/0069-sqrtx) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Lin2148/NeetCode150/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
