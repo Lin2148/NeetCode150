@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Lin2148/NeetCode150/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lin2148/NeetCode150/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lin2148/NeetCode150/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Lin2148/NeetCode150/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Lin2148/NeetCode150/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Lin2148/NeetCode150/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Lin2148/NeetCode150/tree/master/0136-single-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Lin2148/NeetCode150/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Lin2148/NeetCode150/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lin2148/NeetCode150/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Lin2148/NeetCode150/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Lin2148/NeetCode150/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Lin2148/NeetCode150/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Lin2148/NeetCode150/tree/master/0139-word-break) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Lin2148/NeetCode150/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Lin2148/NeetCode150/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Lin2148/NeetCode150/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Lin2148/NeetCode150/tree/master/0684-redundant-connection) |
