@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Lin2148/NeetCode150/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Lin2148/NeetCode150/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Lin2148/NeetCode150/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Lin2148/NeetCode150/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
 | ------- |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Lin2148/NeetCode150/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/Lin2148/NeetCode150/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lin2148/NeetCode150/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/Lin2148/NeetCode150/tree/master/0901-online-stock-span) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lin2148/NeetCode150/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/Lin2148/NeetCode150/tree/master/0901-online-stock-span) |
 ## Matrix
 |  |
 | ------- |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Lin2148/NeetCode150/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Lin2148/NeetCode150/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
