@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Lin2148/NeetCode150/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Lin2148/NeetCode150/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lin2148/NeetCode150/tree/master/0746-min-cost-climbing-stairs) |
+| [0752-open-the-lock](https://github.com/Lin2148/NeetCode150/tree/master/0752-open-the-lock) |
 | [0846-hand-of-straights](https://github.com/Lin2148/NeetCode150/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Lin2148/NeetCode150/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Lin2148/NeetCode150/tree/master/0867-transpose-matrix) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Lin2148/NeetCode150/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/Lin2148/NeetCode150/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Lin2148/NeetCode150/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/Lin2148/NeetCode150/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/Lin2148/NeetCode150/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Lin2148/NeetCode150/tree/master/0846-hand-of-straights) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Lin2148/NeetCode150/tree/master/0953-verifying-an-alien-dictionary) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Lin2148/NeetCode150/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Lin2148/NeetCode150/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/Lin2148/NeetCode150/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/Lin2148/NeetCode150/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/Lin2148/NeetCode150/tree/master/0763-partition-labels) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Lin2148/NeetCode150/tree/master/0953-verifying-an-alien-dictionary) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Lin2148/NeetCode150/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Lin2148/NeetCode150/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Lin2148/NeetCode150/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Lin2148/NeetCode150/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/Lin2148/NeetCode150/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/Lin2148/NeetCode150/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Lin2148/NeetCode150/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -623,4 +627,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Lin2148/NeetCode150/tree/master/0649-dota2-senate) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/Lin2148/NeetCode150/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
