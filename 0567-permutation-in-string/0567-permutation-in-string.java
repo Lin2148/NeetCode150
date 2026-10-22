@@ -4,28 +4,29 @@ class Solution {
         if(s2.length() < n) return false;
 
         int[] cnt = new int[26];
-        for (char c : s1.toCharArray()){
-            cnt[c-'a'] += 1;
+        int[] cmp = new int[26];
+        for (int i = 0; i < n; i++) {
+            cnt[s1.charAt(i) - 'a']++;
+            cmp[s2.charAt(i) - 'a']++;
         }
 
 
 
         int left = 0;
-        int right = n-1;
+        int right = n;
         
         while (right < s2.length()){
-            int[] cmp = new int[26];
-            String subStr = s2.substring(left, right+1);
-            for (char c : subStr.toCharArray()){
-                cmp[c-'a'] += 1;
-            }
             if(Arrays.equals(cnt, cmp)){
                 return true;
             }
+
+            cmp[s2.charAt(right) - 'a']++;
+            cmp[s2.charAt(left) - 'a']--;
+
             left++;
             right++;
         }
 
-        return false;
+        return Arrays.equals(cnt, cmp);
     }
 }
