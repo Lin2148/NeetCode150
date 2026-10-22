@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Lin2148/NeetCode150/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Lin2148/NeetCode150/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lin2148/NeetCode150/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Lin2148/NeetCode150/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Lin2148/NeetCode150/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Lin2148/NeetCode150/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Lin2148/NeetCode150/tree/master/0752-open-the-lock) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Lin2148/NeetCode150/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Lin2148/NeetCode150/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lin2148/NeetCode150/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Lin2148/NeetCode150/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Lin2148/NeetCode150/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/Lin2148/NeetCode150/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Lin2148/NeetCode150/tree/master/0678-valid-parenthesis-string) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Lin2148/NeetCode150/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Lin2148/NeetCode150/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Lin2148/NeetCode150/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Lin2148/NeetCode150/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Lin2148/NeetCode150/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Lin2148/NeetCode150/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Lin2148/NeetCode150/tree/master/0763-partition-labels) |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lin2148/NeetCode150/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Lin2148/NeetCode150/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lin2148/NeetCode150/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Lin2148/NeetCode150/tree/master/0567-permutation-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
